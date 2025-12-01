@@ -2,13 +2,13 @@
 
 I'm Peter Wilrexe Escueta, a fresh graduate interested in all things web development.
 
-My curiosity is usually what leads me to building whatever i build.
+My curiosity is usually what leads me to building whatever I build.
 
-I mostly use Laravel, Vue.js, Typescript but i do like being able to learn other languages like using Python for machine learning.
+I mostly use Laravel, Vue.js, Typescript, but i do like being able to learn other languages like Python for machine learning.
 
-There's quite a lot of projects pinned but my favorite to work on so far is probably [Job Order Service and Ticketing System](https://github.com/Carl-Tabuso/mst) just because of the amount i've learned in software design patterns.
+There's quite a lot of projects pinned but my favorite so far is probably [Job Order Service and Ticketing System](https://github.com/Carl-Tabuso/mst) just because of the amount i've learned in software design patterns.
 
-Currently cleaning up code and adding features on some of my existing projects aswell as trying to experiment with RAG in my portfolio by building an AI chatbot that answers questions about me and my projects.
+I'm currently cleaning up code and adding features on some of my existing projects aswell as trying to experiment with RAG in my portfolio by building an AI chatbot that answers questions about me and my projects.
 
 <!--
 **Peter-Escueta/Peter-Escueta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
